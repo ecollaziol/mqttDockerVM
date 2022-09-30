@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Even though this test is meant for DOCKER, we still run the 
+# Even though this test is meant for DOCKER, we still run the same iperf3 client outside Docker, because only the iPerf3 server is run inside a Docker container.
 
 sudo yum update -y && sudo yum install iperf3 -y
 
