@@ -1,0 +1,72 @@
+iperf 3.9
+Linux eduardo-virtual-machine 5.15.0-48-generic #54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022 x86_64
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+Time: Fri, 07 Oct 2022 04:45:56 GMT
+Accepted connection from 192.168.0.15, port 11334
+      Cookie: p2rgyfqijwipomljlmfz4svuqvrqafw5chu4
+      TCP MSS: 0 (default)
+[  5] local 192.168.0.17 port 5201 connected to 192.168.0.15 port 11335
+Starting Test: protocol: TCP, 1 streams, 131072 byte blocks, omitting 0 seconds, 15 second test, tos 0
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  10.1 MBytes  85.0 Mbits/sec                  
+[  5]   1.00-2.00   sec  11.3 MBytes  94.8 Mbits/sec                  
+[  5]   2.00-3.00   sec  11.3 MBytes  94.7 Mbits/sec                  
+[  5]   3.00-4.00   sec  11.3 MBytes  94.8 Mbits/sec                  
+[  5]   4.00-5.00   sec  11.2 MBytes  93.7 Mbits/sec                  
+[  5]   5.00-6.00   sec  9.63 MBytes  80.8 Mbits/sec                  
+[  5]   6.00-7.00   sec  11.3 MBytes  94.5 Mbits/sec                  
+[  5]   7.00-8.00   sec  11.3 MBytes  95.0 Mbits/sec                  
+[  5]   8.00-9.00   sec  10.3 MBytes  86.2 Mbits/sec                  
+[  5]   9.00-10.00  sec  6.68 MBytes  56.1 Mbits/sec                  
+[  5]  10.00-11.00  sec  10.3 MBytes  86.4 Mbits/sec                  
+[  5]  11.00-12.00  sec  10.8 MBytes  90.8 Mbits/sec                  
+[  5]  12.00-13.00  sec  11.3 MBytes  94.7 Mbits/sec                  
+[  5]  13.00-14.00  sec  11.3 MBytes  95.0 Mbits/sec                  
+[  5]  14.00-15.00  sec  11.3 MBytes  95.2 Mbits/sec                  
+[  5]  15.00-15.10  sec  1.06 MBytes  93.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate
+[  5] (sender statistics not available)
+[  5]   0.00-15.10  sec   160 MBytes  89.2 Mbits/sec                  receiver
+rcv_tcp_congestion cubic
+iperf 3.9
+Linux eduardo-virtual-machine 5.15.0-48-generic #54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022 x86_64
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
+Time: Fri, 07 Oct 2022 04:46:12 GMT
+Accepted connection from 192.168.0.15, port 11336
+      Cookie: dpb7nznkxxbbzzg4rckwchyd6woeqjou45jg
+      Target Bitrate: 1048576
+[  5] local 192.168.0.17 port 5201 connected to 192.168.0.15 port 56036
+Starting Test: protocol: UDP, 1 streams, 1400 byte blocks, omitting 0 seconds, 15 second test, tos 0
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-1.00   sec   122 KBytes   996 Kbits/sec  0.224 ms  0/89 (0%)  
+[  5]   1.00-2.00   sec   129 KBytes  1.05 Mbits/sec  0.235 ms  0/94 (0%)  
+[  5]   2.00-3.00   sec   129 KBytes  1.05 Mbits/sec  0.273 ms  0/94 (0%)  
+[  5]   3.00-4.00   sec   127 KBytes  1.04 Mbits/sec  0.225 ms  0/93 (0%)  
+[  5]   4.00-5.00   sec   129 KBytes  1.05 Mbits/sec  0.236 ms  0/94 (0%)  
+[  5]   5.00-6.00   sec   129 KBytes  1.05 Mbits/sec  0.163 ms  0/94 (0%)  
+[  5]   6.00-7.00   sec   129 KBytes  1.05 Mbits/sec  0.223 ms  0/94 (0%)  
+[  5]   7.00-8.00   sec   127 KBytes  1.04 Mbits/sec  0.260 ms  0/93 (0%)  
+[  5]   8.00-9.00   sec   129 KBytes  1.05 Mbits/sec  0.257 ms  0/94 (0%)  
+[  5]   9.00-10.00  sec   129 KBytes  1.05 Mbits/sec  0.372 ms  0/94 (0%)  
+[  5]  10.00-11.00  sec   129 KBytes  1.05 Mbits/sec  0.215 ms  0/94 (0%)  
+[  5]  11.00-12.00  sec   129 KBytes  1.05 Mbits/sec  0.218 ms  0/94 (0%)  
+[  5]  12.00-13.00  sec   127 KBytes  1.04 Mbits/sec  0.275 ms  0/93 (0%)  
+[  5]  13.00-14.00  sec   127 KBytes  1.04 Mbits/sec  0.329 ms  0/93 (0%)  
+[  5]  14.00-15.00  sec   127 KBytes  1.04 Mbits/sec  0.305 ms  0/93 (0%)  
+[  5]  15.00-15.05  sec  6.84 KBytes  1.15 Mbits/sec  0.288 ms  0/5 (0%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5] (sender statistics not available)
+[  5]   0.00-15.05  sec  1.88 MBytes  1.05 Mbits/sec  0.288 ms  0/1405 (0%)  receiver
+iperf 3.9
+Linux eduardo-virtual-machine 5.15.0-48-generic #54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022 x86_64
+-----------------------------------------------------------
+Server listening on 5201
+-----------------------------------------------------------
