@@ -1,0 +1,910 @@
+======= CLIENT 93 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.134
+Msg time min (ms):   10.632
+Msg time max (ms):   217.704
+Msg time mean (ms):  29.116
+Msg time std (ms):   27.251
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 13 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.149
+Msg time min (ms):   9.950
+Msg time max (ms):   139.102
+Msg time mean (ms):  24.967
+Msg time std (ms):   18.485
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 88 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.135
+Msg time min (ms):   12.611
+Msg time max (ms):   146.161
+Msg time mean (ms):  27.322
+Msg time std (ms):   19.128
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 21 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.148
+Msg time min (ms):   10.540
+Msg time max (ms):   145.761
+Msg time mean (ms):  25.379
+Msg time std (ms):   18.988
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 58 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.141
+Msg time min (ms):   11.834
+Msg time max (ms):   148.948
+Msg time mean (ms):  26.110
+Msg time std (ms):   19.718
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 20 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.148
+Msg time min (ms):   11.378
+Msg time max (ms):   147.041
+Msg time mean (ms):  26.314
+Msg time std (ms):   19.335
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 15 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.149
+Msg time min (ms):   11.517
+Msg time max (ms):   219.812
+Msg time mean (ms):  27.281
+Msg time std (ms):   27.272
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 78 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.137
+Msg time min (ms):   10.569
+Msg time max (ms):   147.999
+Msg time mean (ms):  26.492
+Msg time std (ms):   19.005
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 19 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.148
+Msg time min (ms):   11.154
+Msg time max (ms):   221.990
+Msg time mean (ms):  27.620
+Msg time std (ms):   27.298
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 99 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.151
+Msg time min (ms):   9.111
+Msg time max (ms):   141.651
+Msg time mean (ms):  23.748
+Msg time std (ms):   18.707
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 4 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.150
+Msg time min (ms):   10.108
+Msg time max (ms):   220.047
+Msg time mean (ms):  25.983
+Msg time std (ms):   27.100
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 17 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.148
+Msg time min (ms):   11.023
+Msg time max (ms):   140.303
+Msg time mean (ms):  25.264
+Msg time std (ms):   19.058
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 89 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.136
+Msg time min (ms):   11.553
+Msg time max (ms):   146.841
+Msg time mean (ms):  27.572
+Msg time std (ms):   19.348
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 22 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.149
+Msg time min (ms):   11.257
+Msg time max (ms):   138.964
+Msg time mean (ms):  26.630
+Msg time std (ms):   18.908
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 11 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.150
+Msg time min (ms):   9.333
+Msg time max (ms):   145.812
+Msg time mean (ms):  24.992
+Msg time std (ms):   19.164
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 1 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.152
+Msg time min (ms):   9.249
+Msg time max (ms):   139.654
+Msg time mean (ms):  23.747
+Msg time std (ms):   18.633
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 85 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.137
+Msg time min (ms):   12.080
+Msg time max (ms):   145.787
+Msg time mean (ms):  27.905
+Msg time std (ms):   19.596
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 16 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.150
+Msg time min (ms):   10.032
+Msg time max (ms):   147.378
+Msg time mean (ms):  25.772
+Msg time std (ms):   19.169
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 77 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.138
+Msg time min (ms):   9.723
+Msg time max (ms):   144.994
+Msg time mean (ms):  26.559
+Msg time std (ms):   19.422
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 90 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.136
+Msg time min (ms):   11.995
+Msg time max (ms):   148.829
+Msg time mean (ms):  27.689
+Msg time std (ms):   19.543
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 86 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.137
+Msg time min (ms):   10.087
+Msg time max (ms):   146.163
+Msg time mean (ms):  26.701
+Msg time std (ms):   19.647
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 8 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.151
+Msg time min (ms):   10.023
+Msg time max (ms):   142.308
+Msg time mean (ms):  24.288
+Msg time std (ms):   18.754
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 54 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.143
+Msg time min (ms):   9.328
+Msg time max (ms):   149.098
+Msg time mean (ms):  25.466
+Msg time std (ms):   19.687
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 9 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.151
+Msg time min (ms):   10.883
+Msg time max (ms):   138.382
+Msg time mean (ms):  24.591
+Msg time std (ms):   18.285
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 87 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.136
+Msg time min (ms):   11.318
+Msg time max (ms):   148.922
+Msg time mean (ms):  27.362
+Msg time std (ms):   20.000
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 0 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.152
+Msg time min (ms):   7.946
+Msg time max (ms):   142.119
+Msg time mean (ms):  23.464
+Msg time std (ms):   18.617
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 55 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.143
+Msg time min (ms):   9.710
+Msg time max (ms):   148.646
+Msg time mean (ms):  25.252
+Msg time std (ms):   19.524
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 60 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.143
+Msg time min (ms):   9.536
+Msg time max (ms):   150.854
+Msg time mean (ms):  25.744
+Msg time std (ms):   19.416
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 94 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.137
+Msg time min (ms):   12.138
+Msg time max (ms):   146.496
+Msg time mean (ms):  26.359
+Msg time std (ms):   18.945
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 83 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.139
+Msg time min (ms):   10.414
+Msg time max (ms):   148.645
+Msg time mean (ms):  27.009
+Msg time std (ms):   19.819
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 18 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.151
+Msg time min (ms):   11.099
+Msg time max (ms):   141.843
+Msg time mean (ms):  25.137
+Msg time std (ms):   19.333
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 92 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.137
+Msg time min (ms):   10.272
+Msg time max (ms):   146.650
+Msg time mean (ms):  27.631
+Msg time std (ms):   19.305
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 6 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.153
+Msg time min (ms):   9.256
+Msg time max (ms):   139.629
+Msg time mean (ms):  24.310
+Msg time std (ms):   18.710
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 80 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.139
+Msg time min (ms):   11.484
+Msg time max (ms):   147.570
+Msg time mean (ms):  27.155
+Msg time std (ms):   19.195
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 81 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.139
+Msg time min (ms):   9.261
+Msg time max (ms):   149.399
+Msg time mean (ms):  26.792
+Msg time std (ms):   19.836
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 57 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.144
+Msg time min (ms):   11.266
+Msg time max (ms):   148.292
+Msg time mean (ms):  25.277
+Msg time std (ms):   19.257
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 5 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.153
+Msg time min (ms):   9.037
+Msg time max (ms):   139.718
+Msg time mean (ms):  24.419
+Msg time std (ms):   18.757
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 12 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.152
+Msg time min (ms):   9.172
+Msg time max (ms):   141.196
+Msg time mean (ms):  25.014
+Msg time std (ms):   18.971
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 61 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.145
+Msg time min (ms):   8.536
+Msg time max (ms):   147.339
+Msg time mean (ms):  25.424
+Msg time std (ms):   19.169
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 76 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.142
+Msg time min (ms):   9.916
+Msg time max (ms):   143.038
+Msg time mean (ms):  26.673
+Msg time std (ms):   19.177
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 84 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.140
+Msg time min (ms):   10.213
+Msg time max (ms):   149.284
+Msg time mean (ms):  27.088
+Msg time std (ms):   19.768
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 14 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.154
+Msg time min (ms):   9.470
+Msg time max (ms):   138.781
+Msg time mean (ms):  24.745
+Msg time std (ms):   18.512
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 7 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.154
+Msg time min (ms):   9.178
+Msg time max (ms):   142.478
+Msg time mean (ms):  24.621
+Msg time std (ms):   19.024
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 91 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.143
+Msg time min (ms):   9.373
+Msg time max (ms):   146.137
+Msg time mean (ms):  26.004
+Msg time std (ms):   19.401
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 59 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.149
+Msg time min (ms):   10.352
+Msg time max (ms):   148.088
+Msg time mean (ms):  25.212
+Msg time std (ms):   19.104
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 56 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.150
+Msg time min (ms):   10.479
+Msg time max (ms):   147.064
+Msg time mean (ms):  25.346
+Msg time std (ms):   19.151
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 82 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.145
+Msg time min (ms):   11.099
+Msg time max (ms):   147.787
+Msg time mean (ms):  26.390
+Msg time std (ms):   19.518
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 10 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.158
+Msg time min (ms):   9.160
+Msg time max (ms):   146.035
+Msg time mean (ms):  24.020
+Msg time std (ms):   19.312
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 95 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.143
+Msg time min (ms):   9.461
+Msg time max (ms):   149.088
+Msg time mean (ms):  25.962
+Msg time std (ms):   19.556
+Bandwidth (msg/sec): 0.999
+
+======= CLIENT 30 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.174
+Msg time min (ms):   6.543
+Msg time max (ms):   113.730
+Msg time mean (ms):  16.514
+Msg time std (ms):   13.324
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 50 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.170
+Msg time min (ms):   6.376
+Msg time max (ms):   115.684
+Msg time mean (ms):  17.816
+Msg time std (ms):   14.001
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 24 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.175
+Msg time min (ms):   6.855
+Msg time max (ms):   111.176
+Msg time mean (ms):  15.736
+Msg time std (ms):   13.109
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 38 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.172
+Msg time min (ms):   6.699
+Msg time max (ms):   113.525
+Msg time mean (ms):  16.687
+Msg time std (ms):   13.143
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 69 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.166
+Msg time min (ms):   5.708
+Msg time max (ms):   121.828
+Msg time mean (ms):  18.269
+Msg time std (ms):   14.459
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 23 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.178
+Msg time min (ms):   4.736
+Msg time max (ms):   121.624
+Msg time mean (ms):  15.888
+Msg time std (ms):   14.374
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 41 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.175
+Msg time min (ms):   5.590
+Msg time max (ms):   111.205
+Msg time mean (ms):  16.214
+Msg time std (ms):   12.909
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 63 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.170
+Msg time min (ms):   8.218
+Msg time max (ms):   120.383
+Msg time mean (ms):  17.893
+Msg time std (ms):   14.360
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 68 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.169
+Msg time min (ms):   7.431
+Msg time max (ms):   121.703
+Msg time mean (ms):  18.176
+Msg time std (ms):   14.375
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 64 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.172
+Msg time min (ms):   6.197
+Msg time max (ms):   117.557
+Msg time mean (ms):  17.534
+Msg time std (ms):   14.012
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 25 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.179
+Msg time min (ms):   7.067
+Msg time max (ms):   117.371
+Msg time mean (ms):  15.551
+Msg time std (ms):   13.202
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 31 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.181
+Msg time min (ms):   7.516
+Msg time max (ms):   108.324
+Msg time mean (ms):  16.946
+Msg time std (ms):   12.872
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 2 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.185
+Msg time min (ms):   6.798
+Msg time max (ms):   102.907
+Msg time mean (ms):  17.110
+Msg time std (ms):   13.209
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 26 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.182
+Msg time min (ms):   6.873
+Msg time max (ms):   120.226
+Msg time mean (ms):  15.518
+Msg time std (ms):   13.553
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 70 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.173
+Msg time min (ms):   7.621
+Msg time max (ms):   107.753
+Msg time mean (ms):  19.286
+Msg time std (ms):   13.072
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 34 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.181
+Msg time min (ms):   7.786
+Msg time max (ms):   117.029
+Msg time mean (ms):  16.604
+Msg time std (ms):   13.648
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 46 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.179
+Msg time min (ms):   7.285
+Msg time max (ms):   108.055
+Msg time mean (ms):  18.108
+Msg time std (ms):   13.422
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 49 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.178
+Msg time min (ms):   5.974
+Msg time max (ms):   120.923
+Msg time mean (ms):  17.510
+Msg time std (ms):   14.717
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 48 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.178
+Msg time min (ms):   7.074
+Msg time max (ms):   108.310
+Msg time mean (ms):  19.009
+Msg time std (ms):   13.746
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 65 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.174
+Msg time min (ms):   6.609
+Msg time max (ms):   112.648
+Msg time mean (ms):  18.903
+Msg time std (ms):   14.188
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 52 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.177
+Msg time min (ms):   7.929
+Msg time max (ms):   109.062
+Msg time mean (ms):  19.483
+Msg time std (ms):   13.734
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 62 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.175
+Msg time min (ms):   7.076
+Msg time max (ms):   107.762
+Msg time mean (ms):  19.450
+Msg time std (ms):   13.296
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 40 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.180
+Msg time min (ms):   7.529
+Msg time max (ms):   107.898
+Msg time mean (ms):  17.440
+Msg time std (ms):   12.929
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 51 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.178
+Msg time min (ms):   7.081
+Msg time max (ms):   108.901
+Msg time mean (ms):  19.439
+Msg time std (ms):   14.171
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 3 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.186
+Msg time min (ms):   6.168
+Msg time max (ms):   106.982
+Msg time mean (ms):  16.397
+Msg time std (ms):   13.638
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 37 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.181
+Msg time min (ms):   7.661
+Msg time max (ms):   120.407
+Msg time mean (ms):  16.400
+Msg time std (ms):   13.430
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 33 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.183
+Msg time min (ms):   6.786
+Msg time max (ms):   95.473
+Msg time mean (ms):  17.235
+Msg time std (ms):   12.331
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 75 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.176
+Msg time min (ms):   7.523
+Msg time max (ms):   101.926
+Msg time mean (ms):  19.146
+Msg time std (ms):   13.020
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 39 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.187
+Msg time min (ms):   6.260
+Msg time max (ms):   95.407
+Msg time mean (ms):  17.389
+Msg time std (ms):   11.948
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 44 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.188
+Msg time min (ms):   7.047
+Msg time max (ms):   111.671
+Msg time mean (ms):  18.436
+Msg time std (ms):   14.412
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 73 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.181
+Msg time min (ms):   7.316
+Msg time max (ms):   103.140
+Msg time mean (ms):  18.502
+Msg time std (ms):   12.756
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 28 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.190
+Msg time min (ms):   6.426
+Msg time max (ms):   108.138
+Msg time mean (ms):  17.092
+Msg time std (ms):   13.430
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 32 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.190
+Msg time min (ms):   6.508
+Msg time max (ms):   96.898
+Msg time mean (ms):  16.661
+Msg time std (ms):   12.394
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 67 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.218
+Msg time min (ms):   5.705
+Msg time max (ms):   105.883
+Msg time mean (ms):  18.177
+Msg time std (ms):   14.070
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 45 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.257
+Msg time min (ms):   5.271
+Msg time max (ms):   71.315
+Msg time mean (ms):  15.287
+Msg time std (ms):   10.469
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 36 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.258
+Msg time min (ms):   4.759
+Msg time max (ms):   96.672
+Msg time mean (ms):  15.533
+Msg time std (ms):   11.926
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 43 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.257
+Msg time min (ms):   6.018
+Msg time max (ms):   54.868
+Msg time mean (ms):  14.802
+Msg time std (ms):   9.363
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 79 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.249
+Msg time min (ms):   6.545
+Msg time max (ms):   72.170
+Msg time mean (ms):  16.984
+Msg time std (ms):   10.699
+Bandwidth (msg/sec): 0.998
+
+======= CLIENT 53 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.255
+Msg time min (ms):   6.670
+Msg time max (ms):   72.831
+Msg time mean (ms):  16.308
+Msg time std (ms):   10.881
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 27 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.260
+Msg time min (ms):   4.665
+Msg time max (ms):   66.770
+Msg time mean (ms):  14.554
+Msg time std (ms):   10.171
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 47 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.256
+Msg time min (ms):   3.923
+Msg time max (ms):   71.811
+Msg time mean (ms):  16.903
+Msg time std (ms):   10.958
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 35 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.260
+Msg time min (ms):   5.912
+Msg time max (ms):   55.870
+Msg time mean (ms):  14.525
+Msg time std (ms):   9.455
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 71 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.253
+Msg time min (ms):   6.787
+Msg time max (ms):   64.300
+Msg time mean (ms):  16.297
+Msg time std (ms):   10.571
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 66 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.258
+Msg time min (ms):   6.395
+Msg time max (ms):   63.846
+Msg time mean (ms):  15.229
+Msg time std (ms):   10.073
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 72 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.256
+Msg time min (ms):   5.766
+Msg time max (ms):   72.183
+Msg time mean (ms):  16.742
+Msg time std (ms):   11.253
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 74 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.256
+Msg time min (ms):   5.819
+Msg time max (ms):   71.395
+Msg time mean (ms):  16.095
+Msg time std (ms):   9.728
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 29 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.266
+Msg time min (ms):   5.721
+Msg time max (ms):   61.200
+Msg time mean (ms):  13.354
+Msg time std (ms):   9.939
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 42 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         100.264
+Msg time min (ms):   5.808
+Msg time max (ms):   61.692
+Msg time mean (ms):  14.985
+Msg time std (ms):   9.821
+Bandwidth (msg/sec): 0.997
+
+======= CLIENT 97 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         101.065
+Msg time min (ms):   6.347
+Msg time max (ms):   216.309
+Msg time mean (ms):  46.173
+Msg time std (ms):   48.341
+Bandwidth (msg/sec): 0.989
+
+======= CLIENT 98 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         101.065
+Msg time min (ms):   6.745
+Msg time max (ms):   215.073
+Msg time mean (ms):  46.417
+Msg time std (ms):   48.202
+Bandwidth (msg/sec): 0.989
+
+======= CLIENT 96 =======
+Ratio:               1.000 (100/100)
+Runtime (s):         101.066
+Msg time min (ms):   6.026
+Msg time max (ms):   216.207
+Msg time mean (ms):  45.791
+Msg time std (ms):   48.418
+Bandwidth (msg/sec): 0.989
+
+========= TOTAL (100) =========
+Total Ratio:                 1.000 (10000/10000)
+Total Runtime (sec):         101.083
+Average Runtime (sec):       100.200
+Msg time min (ms):           3.923
+Msg time max (ms):           221.990
+Msg time mean mean (ms):     22.224
+Msg time mean std (ms):      6.269
+Average Bandwidth (msg/sec): 0.998
+Total Bandwidth (msg/sec):   99.801
