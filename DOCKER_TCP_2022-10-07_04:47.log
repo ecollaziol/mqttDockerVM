@@ -1,0 +1,35 @@
+iperf 3.9
+Linux admin 5.15.0-48-generic #54-Ubuntu SMP Fri Aug 26 13:26:29 UTC 2022 x86_64
+Control connection MSS 1460
+Time: Fri, 07 Oct 2022 04:47:41 GMT
+Connecting to host 192.168.0.17, port 5201
+      Cookie: rgqp4tcl53qymr6u2kxu4ojd22jcmo4csmug
+      TCP MSS: 1460 (default)
+[  5] local 10.0.2.15 port 54318 connected to 192.168.0.17 port 5201
+Starting Test: protocol: TCP, 1 streams, 131072 byte blocks, omitting 0 seconds, 15 second test, tos 0
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  7.95 MBytes  7.95 MBytes/sec    0   65.6 KBytes       
+[  5]   1.00-2.00   sec  8.36 MBytes  8.36 MBytes/sec    0   65.6 KBytes       
+[  5]   2.00-3.00   sec  7.66 MBytes  7.65 MBytes/sec    0   65.6 KBytes       
+[  5]   3.00-4.00   sec  2.14 MBytes  2.14 MBytes/sec    0   65.6 KBytes       
+[  5]   4.00-5.00   sec  5.88 MBytes  5.88 MBytes/sec    0   65.6 KBytes       
+[  5]   5.00-6.00   sec  4.50 MBytes  4.50 MBytes/sec    0   65.6 KBytes       
+[  5]   6.00-7.00   sec  3.83 MBytes  3.83 MBytes/sec    0   65.6 KBytes       
+[  5]   7.00-8.00   sec  3.92 MBytes  3.92 MBytes/sec    0   65.6 KBytes       
+[  5]   8.00-9.00   sec  4.44 MBytes  4.44 MBytes/sec    0   65.6 KBytes       
+[  5]   9.00-10.00  sec  9.10 MBytes  9.10 MBytes/sec    0   65.6 KBytes       
+[  5]  10.00-11.00  sec  7.84 MBytes  7.84 MBytes/sec    0   65.6 KBytes       
+[  5]  11.00-12.00  sec  5.76 MBytes  5.75 MBytes/sec    0   65.6 KBytes       
+[  5]  12.00-13.00  sec  9.71 MBytes  9.71 MBytes/sec    0   65.6 KBytes       
+[  5]  13.00-14.00  sec  5.18 MBytes  5.18 MBytes/sec    0   65.6 KBytes       
+[  5]  14.00-15.00  sec  3.46 MBytes  3.46 MBytes/sec    0   65.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-15.00  sec  89.7 MBytes  5.98 MBytes/sec    0             sender
+[  5]   0.00-15.02  sec  88.4 MBytes  5.88 MBytes/sec                  receiver
+CPU Utilization: local/sender 1.2% (0.3%u/0.9%s), remote/receiver 1.6% (0.1%u/1.5%s)
+snd_tcp_congestion cubic
+rcv_tcp_congestion cubic
+
+iperf Done.
