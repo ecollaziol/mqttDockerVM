@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo yum update -y && sudo yum install iperf3 -y
+sudo apt-get update -y && sudo apt-get install iperf3 -y
 
 echo "####################"
 
@@ -12,7 +12,7 @@ echo "####################"
 
 echo "TCP testing for 15 seconds"
 
-iperf3 -c $ip -t 15 -f M -i 1 -V >> "TCP_$(date +%Y-%m-%d_%H:%M).log"
+iperf3 -c $ip -t 15 -f M -i 1 -V > "TCP_$(date +%Y-%m-%d_%H:%M).log"
 # -c: server we're connecting to, using the default port 5201
 # -t: how many seconds we're running the test (transmitting data)
 # -f: format to print bandwidth numbers (set to MB)
@@ -21,7 +21,7 @@ iperf3 -c $ip -t 15 -f M -i 1 -V >> "TCP_$(date +%Y-%m-%d_%H:%M).log"
 
 echo "UDP testing for 15 seconds with 1400 bytes"
 
-iperf3 -c $ip -t 15 --udp --len 1400 -f M -i 1 -V >> "UDP_$(date +%Y-%m-%d_%H:%M).log" 
+iperf3 -c $ip -t 15 --udp --len 1400 -f M -i 1 -V > "UDP_$(date +%Y-%m-%d_%H:%M).log" 
 # -c: server we're connecting to, using the default port 5201
 # -t: how many seconds we're running the test (transmitting data)
 # --udp: use UDP rather than TCP
